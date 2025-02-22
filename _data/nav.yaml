@@ -1,0 +1,13 @@
+- title: programming
+  url: category/programming.html
+  hue: "var(--c-themeHueOrange)"
+  subnav:
+    - title: C++
+      url: category/cxx.html
+      hue: "var(--c-themeHueBlue)"
+    - title: Python
+      url: category/python.html
+      hue: "var(--c-themeHueRed)"
+- title: freetalk
+  url: category/freetalk.html
+  hue: "var(--c-themeHuePurple)"
