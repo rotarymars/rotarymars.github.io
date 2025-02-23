@@ -1,6 +1,6 @@
 ---
 category: [programming]
 hue: var(--c-themeHueGreen) 
-title: competitive programming
+title: programming
 description: Things about programming
 ---
