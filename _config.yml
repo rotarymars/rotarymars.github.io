@@ -59,7 +59,7 @@ collections:
     category:
         output: true
     authors:
-        output: true
+        output: false
 
 defaults:
   -
