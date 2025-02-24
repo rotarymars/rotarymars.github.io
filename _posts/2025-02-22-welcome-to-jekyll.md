@@ -3,7 +3,7 @@ layout: post
 date: 2025-02-22 19:50:00 +0900
 category: [freetalk]
 title: "Hello, World!" 
-author: rotarymars
+# author: rotarymars
 # nextPart: _posts/2021-01-30-example.md
 # prevPart: _posts/2021-01-30-example.md
 og_image: /assets/images/logo.png
