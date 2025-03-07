@@ -8,6 +8,9 @@
     - title: Python
       url: category/python.html
       hue: "var(--c-themeHueRed)"
+    - title: Competitive programming
+      url: category/competitive_programming.html
+      hue: "var(--c-themeQuaternaryDark)"
 - title: freetalk
   url: category/freetalk.html
   hue: "var(--c-themeHuePurple)"
