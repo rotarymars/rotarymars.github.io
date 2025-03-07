@@ -4,10 +4,8 @@ date: 2025-02-22 19:50:00 +0900
 category: [freetalk]
 title: "Hello, World!" 
 # author: rotarymars
-# nextPart: _posts/2021-01-30-example.md
+nextPart: _posts/2025-03-01-after_abc395.md
 # prevPart: _posts/2021-01-30-example.md
-og_image: /assets/images/logo.png
-og_description: "free talk about my self" 
 ---
 
 Hello, I am rotarymars.
